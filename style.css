@@ -40,6 +40,10 @@ body {
     display: inline-block;
 }
 
+/* --> Ends the logo and menu editing <-- */
+
+/* --> Anchors color and hover effects <-- */
+
 a {
     text-decoration: none;
     color: black;
@@ -50,7 +54,8 @@ a:hover{
     font-size: 20px;
     text-decoration: underline;
 }
-/* --> Ends the logo and menu editing <-- */
+
+/* --> End of Anchors color and hover effects <-- */
 
 /* --> Search bar <-- */
 .search-container {
@@ -75,6 +80,9 @@ a:hover{
 
 /* --> End of search bar <-- */
 
+/* --> Search results <-- */
 .search-results {
     text-align: center;
 }
+
+/* --> Search results ends <-- */
